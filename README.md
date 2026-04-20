@@ -27,13 +27,20 @@ DevOps-focused MCA student with hands-on experience in building **secure CI/CD p
 ## 🛠️ Tech Stack
 
 ### 💻 Languages & Frameworks
-Python | Django | Java | JavaScript | HTML5 | CSS3  
+<p>
+  <img src="https://skillicons.dev/icons?i=python,django,java,javascript,html,css"/>
+</p>
 
 ### ☁️ Cloud & DevOps
-AWS | GCP | Docker | Kubernetes | Jenkins | GitLab CI/CD | Terraform | Ansible  
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,jenkins,gitlab,terraform,ansible"/>
+</p>
 
 ### 🗄️ Databases & Monitoring
-PostgreSQL | MongoDB | Redis | Prometheus | Grafana | Elasticsearch  
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,grafana,elasticsearch"/>
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
+</p>
 
 ---
 
