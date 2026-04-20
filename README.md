@@ -5,6 +5,10 @@
   <img src="https://komarev.com/ghpvc/?username=BiswajitRB&label=Profile%20views&color=0e75b6&style=flat"/>
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&lines=DevOps+Engineer;Backend+Developer;CI/CD+Automation;Agentic+AI+for+DevOps&center=true&width=500&height=50">
+</p>
+
 ---
 
 ## 🚀 Professional Summary
@@ -22,14 +26,14 @@ DevOps-focused MCA student with hands-on experience in building **secure CI/CD p
 
 ## 🛠️ Tech Stack
 
-### DevOps
-Docker | GitHub Actions | CI/CD | Trivy | Linux  
+### 💻 Languages & Frameworks
+Python | Django | Java | JavaScript | HTML5 | CSS3  
 
-### Backend
-Java | Spring Boot | REST APIs | MySQL  
+### ☁️ Cloud & DevOps
+AWS | GCP | Docker | Kubernetes | Jenkins | GitLab CI/CD | Terraform | Ansible  
 
-### Programming & AI
-Python | Agentic AI for DevOps  
+### 🗄️ Databases & Monitoring
+PostgreSQL | MongoDB | Redis | Prometheus | Grafana | Elasticsearch  
 
 ---
 
@@ -56,6 +60,10 @@ Python | Agentic AI for DevOps
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=BiswajitRB&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BiswajitRB&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
