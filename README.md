@@ -2,26 +2,21 @@
 <h3 align="center">DevOps Engineer | Backend Developer | MCA Student</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat"/>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&lines=DevOps+Engineer;Backend+Developer;CI/CD+Automation;Agentic+AI+for+DevOps&center=true&width=500&height=50">
+  <img src="https://komarev.com/ghpvc/?username=BiswajitRB&label=Profile%20views&color=0e75b6&style=flat"/>
 </p>
 
 ---
 
 ## 🚀 Professional Summary
-DevOps-focused MCA student with hands-on experience in building **secure CI/CD pipelines, containerized applications, and backend systems**. Skilled in **Docker, GitHub Actions, Java Spring Boot, and Python**.
+DevOps-focused MCA student with hands-on experience in building **secure CI/CD pipelines, containerized applications, and backend systems**.
 
 ---
 
 ## 💼 What I Bring
-- 🔧 Built **end-to-end CI/CD pipelines** with Docker & GitHub Actions  
-- 🔐 Implemented **DevSecOps practices** (Trivy scanning, secure builds)  
-- ⚙️ Developed **REST APIs using Spring Boot**  
-- 🤖 Exploring **Agentic AI for DevOps automation**  
-- 🧠 Strong problem-solving skills  
+- 🔧 Built CI/CD pipelines using Docker & GitHub Actions  
+- 🔐 Implemented DevSecOps (Trivy security scanning)  
+- ⚙️ Developed REST APIs using Spring Boot  
+- 🤖 Exploring Agentic AI for DevOps automation  
 
 ---
 
@@ -31,38 +26,36 @@ DevOps-focused MCA student with hands-on experience in building **secure CI/CD p
 Docker | GitHub Actions | CI/CD | Trivy | Linux  
 
 ### Backend
-Java | Spring Boot | REST APIs | Hibernate | MySQL  
+Java | Spring Boot | REST APIs | MySQL  
 
 ### Programming & AI
 Python | Agentic AI for DevOps  
 
 ---
 
-## 📂 Key Projects (Proof of Work)
+## 📂 Key Projects
 
 ### 🔹 DevSecOps CI/CD Pipeline
-- Automated build → scan → push pipeline  
-- Integrated **Docker + GitHub Actions + Trivy**  
-- Improved deployment reliability and security  
+- Automated build → scan → push  
+- Docker + GitHub Actions + Trivy  
 
 ### 🔹 Spring Boot Backend System
-- Developed scalable REST APIs  
-- Implemented authentication and database integration  
+- REST APIs with authentication  
+- Database integration  
 
-### 🔹 AI Project – Predicting Programming Success
-- Built Deep Learning model for performance prediction  
-- Applied ML concepts to real-world data  
+### 🔹 AI Agent for DevOps (In Progress)
+- Automating log analysis & alerts  
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=BiswajitRB&show_icons=true&theme=tokyonight"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BiswajitRB&theme=tokyonight"/>
 </p>
 
 ---
@@ -76,17 +69,17 @@ Python | Agentic AI for DevOps
 ---
 
 ## 🎯 Current Focus
-- ☁️ Learning Kubernetes & Cloud (AWS basics)  
-- 🤖 Building Agentic AI systems for DevOps automation  
-- 🚀 Preparing for Software/DevOps Engineer roles  
+- Kubernetes & AWS  
+- Agentic AI for DevOps  
+- Preparing for DevOps roles  
 
 ---
 
 ## 🌐 Connect With Me
-- 💼 LinkedIn: https://linkedin.com/in/YOUR_PROFILE  
-- 📧 Email: your.email@example.com  
+- 💼 LinkedIn: (add link)  
+- 📧 Email: (add email)  
 
 ---
 
 ## ⚡ Highlight
-💡 I focus on **building real-world systems, not just learning tools**
+💡 I build real-world systems, not just projects
