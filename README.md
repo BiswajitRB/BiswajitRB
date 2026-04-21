@@ -126,7 +126,7 @@ DevOps-focused MCA student with hands-on experience in building **secure CI/CD p
 ---
 
 ## 🌐 Connect With Me
-- 💼 LinkedIn: www.linkedin.com/in/biswajit-andia-a5b035304
+- 💼 LinkedIn: www.linkedin.com/in/biswajit-andia-devops
 - 📧 Email: rbbiswajit2@gmail.com 
 
 ---
