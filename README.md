@@ -120,8 +120,7 @@ DevOps-focused MCA student with hands-on experience in building **secure CI/CD p
 ## 🎯 Current Focus
 - Kubernetes & AWS  
 - Agentic AI for DevOps  
-- Building production-level DevOps projects  
-- Preparing for DevOps Engineer roles  
+- Building production-level DevOps projects    
 
 ---
 
